@@ -1,0 +1,23 @@
+{
+  "name": "ogame-new-star",
+  "version": "0.0.3",
+  "description": "",
+  "type": "module",
+  "keywords": [
+    "ogame",
+    "new-star",
+    "bot",
+    "api",
+    ""
+  ],
+  "author": "AhMisty",
+  "license": "MIT",
+  "scripts": {
+    "build": "rolldown -c rolldown.config.js"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "rolldown": "nightly",
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,48 @@
+const enum Element {
+    //建筑
+    Building,
+    //研究
+    Research,
+    //舰船
+    Fleet,
+    //防御
+    Defense,
+    //军官
+    Officier,
+    //高级加成
+    Blueprints,
+    //资源
+    Resource,
+    //加工矿产
+    Details,
+    //矿产
+    Minerals,
+    //政治派系
+    Party,
+    //意识形态
+    Ideologies,
+    //上古神器
+    Artifact,
+    //种族
+    Race,
+    //政体
+    Formgovernment,
+    //伦理学
+    Ethics,
+    //拍卖所
+    Auction,
+    //前沿创新
+    Development,
+    //军备管理
+    Arsenal,
+    //飞升
+    Premium,
+    //雇佣兵
+    Band,
+    //资源交易所
+    Fair,
+    //先驱遗迹
+    Bon,
+}
+
+export default Element
